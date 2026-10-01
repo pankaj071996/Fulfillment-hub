@@ -563,25 +563,25 @@ Built using:
 ## 📸 Project Screenshots
 
 ### 📊 Dashboard
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png.png)
 
 ### 📦 Order Management
-![Orders](Screenshots/orders.png)
+![Orders](Screenshots/orders.png.png)
 
 ### 📦 Inventory Management
-![Inventory](Screenshots/inventory.png)
+![Inventory](Screenshots/inventory.png.png)
 
 ### ⚠️ Issue Management
-![Issues](Screenshots/issues.png)
+![Issues](Screenshots/issues.png.png)
 
 ### 🔄 Transfer Management
-![Transfers](Screenshots/transfers.png)
+![Transfers](Screenshots/transfers.png.png)
 
 ### 🏷️ Product Management
-![Products](Screenshots/products.png)
+![Products](Screenshots/products.png.png)
 
 ### 🏭 Warehouse Management
-![Warehouses](Screenshots/warehouses.png)
+![Warehouses](Screenshots/warehouses.png.png)
 
 ### 🚚 Courier Management
-![Couriers](Screenshots/couriers.png)
+![Couriers](Screenshots/couriers.png.png)
