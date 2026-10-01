@@ -559,3 +559,29 @@ while improving visibility across the fulfillment process.
 Built using:
 
 **Python • Streamlit • SQLite • Pandas**
+
+## 📸 Project Screenshots
+
+### 📊 Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+### 📦 Order Management
+![Orders](Screenshots/orders.png)
+
+### 📦 Inventory Management
+![Inventory](Screenshots/inventory.png)
+
+### ⚠️ Issue Management
+![Issues](Screenshots/issues.png)
+
+### 🔄 Transfer Management
+![Transfers](Screenshots/transfers.png)
+
+### 🏷️ Product Management
+![Products](Screenshots/products.png)
+
+### 🏭 Warehouse Management
+![Warehouses](Screenshots/warehouses.png)
+
+### 🚚 Courier Management
+![Couriers](Screenshots/couriers.png)
