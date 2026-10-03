@@ -2,6 +2,8 @@
 
 ### XYZ Order Fulfillment Management System
 
+🚀 **Live Project:** [Open Fulfillment Hub](https://fulfillment-app-awskacwmhrfzetgnjaw5m2.streamlit.app/)
+
 A Streamlit-based **e-commerce order fulfillment and warehouse operations management system** designed to help small businesses monitor orders, inventory, warehouse transfers, operational issues, products, warehouses, and courier operations from a single dashboard.
 
 ---
